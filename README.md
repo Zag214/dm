@@ -1,6 +1,6 @@
-DM - simple script for music and video install
+#DM - simple script for music and video install
 
-requsted :
+##requsted :
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) (install bin file and add in path)
 - [python](https://www.python.org/) (for running script)
 
